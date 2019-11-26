@@ -1,7 +1,7 @@
 {
-  "name": "material-kit-react",
+  "name": "fountainofpower",
   "version": "1.8.0",
-  "description": "Material Kit React. Coded by Creative Tim",
+  "description": "Created by Alfred Chimereze Bryan",
   "private": true,
   "main": "dist/index.js",
   "dependencies": {
@@ -10,6 +10,7 @@
     "boostrap": "^2.0.0",
     "classnames": "2.2.6",
     "history": "4.9.0",
+    "material-kit-react": "^1.8.0",
     "moment": "2.24.0",
     "node-sass": "4.12.0",
     "nouislider": "14.0.2",
