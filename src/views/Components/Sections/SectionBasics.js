@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./style.css";
+import "../../../assets/css/style.css";
 
 const zerofill = num => (num < 10 && num >= 0 ? `0${num}` : num);
 

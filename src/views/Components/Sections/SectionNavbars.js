@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./count2.css";
+import "../../../assets/css/count.css";
 
 const zerofill = num => (num < 10 && num >= 0 ? `0${num}` : num);
 
